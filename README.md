@@ -1,5 +1,3 @@
-![Header](https://github.com/shamin-sikder/shamin-sikder/raw/main/assets/banner.png)
-
 <h1 align="center">Hi there 👋, I'm Shamin</h1>
 
 <p align="center">
