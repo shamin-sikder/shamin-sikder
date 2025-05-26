@@ -52,7 +52,7 @@ Here are some of the real-world tasks I've worked on:
 ### 📷 Lab Snapshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/lab-setup.png" width="500" alt="Lab Setup Screenshot"/>
+  <img src="https://raw.githubusercontent.com/shamin-sikder/shamin-sikder/main/assets/lab-setup.png" width="500" alt="Lab Setup Screenshot"/>
 </p>
 
 ---
