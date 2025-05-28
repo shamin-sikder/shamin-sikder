@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Shamin</h1>
 
 <p align="center">
-  <em>Cybersecurity Student | Blue Team Enthusiast | Future SOC Analyst</em>
+  <em>Cybersecurity Student | Blue Team Enthusiast 
 </p>
 
 ---
